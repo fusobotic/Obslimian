@@ -14,6 +14,8 @@
 git clone [the url you copied]
 ``` 
 7. Open the vault using Obsidian
+8. Agree to Trust Third Party Plugins
+9. Start making notes
 
 ## Folder Structure
 A minimal [Zettelkasten](https://zettelkasten.de/introduction/) system:
