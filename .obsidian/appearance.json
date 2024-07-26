@@ -1,0 +1,13 @@
+{
+  "interfaceFontFamily": "Helvetica,Inter",
+  "textFontFamily": "Charter,Gill Sans",
+  "accentColor": "#456850",
+  "cssTheme": "Things",
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "sans-headings"
+  ],
+  "baseFontSizeAction": true,
+  "monospaceFontFamily": "JetBrains Mono,Anonymous Pro",
+  "theme": "system"
+}
