@@ -1,8 +1,7 @@
 # Obslimian
 
-![[readme_banner.png]]
+![banner](https://raw.githubusercontent.com/fusobotic/Obslimian/main/1%20-%20Attachments/readme_banner.png)
 
----
 ## Setup
 
 1. Download and install [git](https://git-scm.com/downloads)
@@ -16,7 +15,6 @@ git clone [the url you copied]
 ``` 
 7. Open the vault using Obsidian
 
----
 ## Folder Structure
 A minimal [Zettelkasten](https://zettelkasten.de/introduction/) system:
 1. Attachments - where your pasted images and other non-md files go
@@ -24,23 +22,23 @@ A minimal [Zettelkasten](https://zettelkasten.de/introduction/) system:
 3. Tags - use `[[wikilinks]]` and click the tag names to add new tags to this folder
 4. Atoms - your individual notes go in here, use `ctrl+n` to create new ones
 
----
 ## Community Plugins
 Less is more. Here is what's included:
 - [Things](https://github.com/colineckert/obsidian-things) - since it looks nice by default and has some useful icons
-- [Git](https://github.com/Vinzent03/obsidian-git) - can be used to sync but is better for version history
+- [Git](https://github.com/Vinzent03/obsidian-git) - can be used to sync but is better for automatic version history (backs up every minute)
 - [QuickAdd](https://github.com/chhoumann/quickadd) - used to replace `ctrl+n` hotkey to make new Atoms with a template
 
 Note: You may want to add [Remotely Save](https://github.com/remotely-save/remotely-save) if you'd like to sync your vault to mobile instead of using git. For best privacy and ownership I would recommend setting up your vault on a local NAS and referencing it there with a shared folder instead.
 
----
 ## Fonts
 UI Sans Fonts:
 - [Helvetica](https://font.download/font/helvetica-255)
 - [Inter](https://fonts.google.com/specimen/Inter)
+  
 Body Text Serif Fonts:
 - [Charter](https://practicaltypography.com/charter.html)
 - [Gill Sans](https://font.download/font/gill-sans-std)
+  
 Code Snippet Monospace Fonts:
 - [Jetbrains Mono](https://www.jetbrains.com/lp/mono/)
 - [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
